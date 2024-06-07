@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// Este es el operador de modulo: %
+
 
 int main () {
     int num1;
